@@ -5,12 +5,8 @@
 ## <span style="color:#07D0B2">Proyectos </span>
 
 
-### Auditoría de Seguridad, Reconocimientos Activos y Pasivos
-- 📋 [Ver Auditoría](https://github.com/jonathanjesus03/Briefcase/blob/fe0e7103aaf55993a1401ee91a073f6c07b4ebd8/Reconocimiento%20Activo%20-%20Pasivo.pdf) 
-- ℹ️ Descripción: Elaboración de reconomientos pasivos y activos de diversas entidades.
-
 ### Auditoría de Seguridad en Maquina Kio
-- 📋 [Ver Auditoría](https://github.com/jonathanjesus03/Briefcase/blob/fe0e7103aaf55993a1401ee91a073f6c07b4ebd8/Informe%20HM%20Kio.pdf)
+- 📋 [Ver Auditoria](https://drive.google.com/file/d/15ya5ItdmXlaE_dEjWypsBCTn3XxxYQsS/view?usp=sharing) <!-- Este enlace abre el PDF en otra ventana -->
 - ℹ️ Descripción: Se me ha contratado para analizar y explotar vulnerabilidades en sistemas de Kio debido a una intrusión sospechada desde un equipo Red Hat con servicios desactualizados, con el objetivo de identificar y corregir posibles fallos de seguridad.
 
 ### Auditoría de Seguridad en Maquina Ethernal
