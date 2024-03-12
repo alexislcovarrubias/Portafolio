@@ -1,10 +1,8 @@
 
-¡Hola bienvenido a mi portafolio de auditorías documentadas!. Gracuas por darte el tiempo de vivitar este apartado, estoy emocionado de compartir mi trabajo contigo y demostrar mis habilidades en este emocionante campo.
-
 ¡Hola! Te doy la bienvenida a mi portafolio de auditorías documentadas. Agradezco mucho que hayas dedicado tiempo para visitar esta sección.
 
 
-## <span style="color:blue">Proyectos </span>
+## <span style="color:#07D0B2">Proyectos </span>
 
 
 ### Auditoría de Seguridad, Reconocimientos Activos y Pasivos
