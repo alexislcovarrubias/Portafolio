@@ -1,8 +1,16 @@
-
+![image](https://github.com/alexislcovarrubias/Portafolio/assets/105681220/06330d27-230c-4f1e-8c06-0a1a3008fb64)
 ¡Hola! Te doy la bienvenida a mi portafolio de auditorías documentadas. Agradezco mucho que hayas dedicado tiempo para visitar esta sección.
 
 
 ## <span style="color:#07D0B2">Proyectos </span>
+
+### Auditoría de Seguridad en Maquina Hacker Kid
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/Avatar_010_Hacker_Kid.webp" alt="Avatar" width="150" height="150">
+</div>
+
+- 📋 [Ver el Reporte](https://drive.google.com/file/d/15ya5ItdmXlaE_dEjWypsBCTn3XxxYQsS/view?usp=sharing)
+ <!-- Este enlace abre el PDF en otra ventana -->
 
 ### Auditoría de Seguridad en Maquina Robot
 <div align="center">
@@ -11,10 +19,6 @@
 
 - 📋 [Ver el Reporte](https://drive.google.com/file/d/16gFnPJpw_MptGIcbjeXxcddERiC45SWk/view?usp=sharing)
  <!-- Este enlace abre el PDF en otra ventana -->
-
-
-
-
 
 
 
