@@ -4,6 +4,19 @@
 
 ## <span style="color:#07D0B2">Proyectos </span>
 
+### Auditoría de Seguridad en Maquina Robot
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/Avatar_009_Robot.webp" alt="Avatar" width="150" height="150">
+</div>
+
+- 📋 [Ver el Reporte](https://drive.google.com/file/d/16gFnPJpw_MptGIcbjeXxcddERiC45SWk/view?usp=sharing)
+ <!-- Este enlace abre el PDF en otra ventana -->
+
+
+
+
+
+
 
 ### Auditoría de Seguridad en Maquina Kio
 <div align="center">
@@ -41,4 +54,15 @@
 - 📋 [Ver el Reporte](https://drive.google.com/file/d/1yOmm-Pu3IyrJJQa9lfuH7BqMOqgnZVmt/view?usp=sharing)
  <!-- Este enlace abre el PDF en otra ventana -->
 - ℹ️ Descripción:Jenkins, mientras desarrollaba un proyecto de software libre, descuidó la seguridad y sufrió una infiltración en sus sistemas, donde los atacantes obtuvieron las credenciales del administrador y dejaron un mensaje diciendo que optimizaron la PC.
+
+- ### Auditoría de Seguridad en Maquina Bolt
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/Avatar_008_Bolt.webp" alt="Avatar" width="150" height="150">
+</div>
+
+- 📋 [Ver el Reporte](https://drive.google.com/file/d/1yOmm-Pu3IyrJJQa9lfuH7BqMOqgnZVmt/view?usp=sharing)
+ <!-- Este enlace abre el PDF en otra ventana -->
+- ℹ️ Descripción:Jenkins, mientras desarrollaba un proyecto de software libre, descuidó la seguridad y sufrió una infiltración en sus sistemas, donde los atacantes obtuvieron las credenciales del administrador y dejaron un mensaje diciendo que optimizaron la PC.
+
+
 
