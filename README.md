@@ -1,5 +1,6 @@
 ¡Hola! Te doy la bienvenida a mi portafolio de auditorías documentadas. Agradezco mucho que hayas dedicado tiempo para visitar esta sección.
-5
+4
+
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
