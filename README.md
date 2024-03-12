@@ -1,5 +1,8 @@
 ¡Hola! Te doy la bienvenida a mi portafolio de auditorías documentadas. Agradezco mucho que hayas dedicado tiempo para visitar esta sección.
 
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
 
 ## <span style="color:#07D0B2">Proyectos </span>
 
