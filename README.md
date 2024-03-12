@@ -1,4 +1,3 @@
-![image](https://github.com/alexislcovarrubias/Portafolio/assets/105681220/06330d27-230c-4f1e-8c06-0a1a3008fb64)
 ¡Hola! Te doy la bienvenida a mi portafolio de auditorías documentadas. Agradezco mucho que hayas dedicado tiempo para visitar esta sección.
 
 
