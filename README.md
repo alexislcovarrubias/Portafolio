@@ -1,8 +1,11 @@
-# Portafolio de Auditorias 
 
-¡Bienvenido a mi portafolio de auditorías documentadas! Aquí encontrarás una recopilación de mis proyectos y auditorías de seguridad en el campo de la ciberseguridad. Estoy emocionado de compartir mi trabajo contigo y demostrar mis habilidades en este emocionante campo.
+¡Hola bienvenido a mi portafolio de auditorías documentadas!. Gracuas por darte el tiempo de vivitar este apartado, estoy emocionado de compartir mi trabajo contigo y demostrar mis habilidades en este emocionante campo.
 
-## Proyectos Destacados
+¡Hola! Te doy la bienvenida a mi portafolio de auditorías documentadas. Agradezco mucho que hayas dedicado tiempo para visitar esta sección.
+
+
+## <span style="color:blue">Proyectos </span>
+
 
 ### Auditoría de Seguridad, Reconocimientos Activos y Pasivos
 - 📋 [Ver Auditoría](https://github.com/jonathanjesus03/Briefcase/blob/fe0e7103aaf55993a1401ee91a073f6c07b4ebd8/Reconocimiento%20Activo%20-%20Pasivo.pdf) 
