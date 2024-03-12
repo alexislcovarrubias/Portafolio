@@ -31,5 +31,14 @@
 
 - 📋 [Ver el Reporte](https://drive.google.com/file/d/1D6lrN0cK26dTzO5DwGl1eSthWBAuk1i7/view?usp=sharing)
  <!-- Este enlace abre el PDF en otra ventana -->
-- ℹ️ Descripción: Ethernal, una consultora de seguridad, identificó equipos Windows 7 en una evaluación de seguridad y optó por explotar una vulnerabilidad crítica para analizar la seguridad de la organización.
+- ℹ️ Descripción:Monkey, un programador de aplicaciones web, tiene la tarea de desarrollar un portal de alumnos, pero se han identificado fallos de seguridad potencialmente críticos antes de que la aplicación se implemente en producción.
+
+- ### Auditoría de Seguridad en Maquina Jenkins 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexislcovarrubias/img/master/Avatar_007_Jenkins.webp" alt="Avatar" width="150" height="150">
+</div>
+
+- 📋 [Ver el Reporte](https://drive.google.com/file/d/1yOmm-Pu3IyrJJQa9lfuH7BqMOqgnZVmt/view?usp=sharing)
+ <!-- Este enlace abre el PDF en otra ventana -->
+- ℹ️ Descripción:Jenkins, mientras desarrollaba un proyecto de software libre, descuidó la seguridad y sufrió una infiltración en sus sistemas, donde los atacantes obtuvieron las credenciales del administrador y dejaron un mensaje diciendo que optimizaron la PC.
 
